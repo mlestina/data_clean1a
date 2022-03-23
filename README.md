@@ -2,7 +2,7 @@
 
 # Clean & Analyze Employee Exit Surveys
 
-## Please refer to .ipynb notebook attached for python scripts and printout of data
+## Please refer to clean1b.ipynb notebook attached for python scripts and printout of data
 
 ### It is said that about 50% of a data scientist's job is spent on cleaning and transforming data.  Hence the motivation for this project. 
 
